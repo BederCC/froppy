@@ -1256,7 +1256,7 @@ form button:hover{
     justify-content: center;
     border-bottom-left-radius: 3px;
     border-top-left-radius: 3px;
-    background: #101010;
+    background: ##10101000;
 }
 .color-panel img{
     height: 40px; 
